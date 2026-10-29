@@ -1,0 +1,16 @@
+# Trained models and local outputs (keep the empty artifacts folder)
+artifacts/*
+!artifacts/.gitkeep
+results/
+*.joblib
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.python-version
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
