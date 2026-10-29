@@ -3,8 +3,8 @@
 Training, inference, and interpretation code for the Random Forest models described in
 *Adolescent-Level and Parent-Level Correlates of Oppositional Defiant Disorder in Korean
 Adolescents: A Machine Learning Analysis of National Survey Data* (submitted to
-*Psychiatry Investigation*). This is the code referenced by the manuscript's Code
-Availability statement.
+*Psychiatry Investigation*). Repository: https://github.com/dablro12/nmhsk-ca-odd-ml.
+This is the code referenced by the manuscript's Code Availability statement.
 
 > **Not a diagnostic or screening tool.** At the Youden threshold the combined-feature-set
 > model's positive predictive value is ≈0.18 (Results 3.2; Discussion, Limitations) — most
